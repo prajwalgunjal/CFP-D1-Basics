@@ -10,9 +10,9 @@ namespace BasicCode
     {
         public void findQuotient()
         {
-            Console.WriteLine("Enter the value of the dividend");
+            Console.WriteLine("Enter the value of the dividend:-");
             int dividend = int.Parse(Console.ReadLine());   
-            Console.WriteLine("Enter the value of the divisor");
+            Console.WriteLine("Enter the value of the divisor:- ");
             int divisor = int.Parse(Console.ReadLine());
             int quotient = dividend / divisor;
             int reminder = dividend % divisor;

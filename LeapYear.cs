@@ -18,7 +18,7 @@ namespace BasicCode
                 {
                     if (year % 400 == 0)
                     {
-                        Console.WriteLine("it is leap year");
+                        Console.WriteLine("this is leap year");
                     }
                     else
                     {

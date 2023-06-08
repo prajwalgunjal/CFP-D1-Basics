@@ -17,7 +17,7 @@ namespace BasicCode
                 for (int i = 0; i <= a; i++)
                 {
                     ans = 2 * i;
-                    Console.WriteLine("2^" + i + "=" + ans);
+                    Console.WriteLine("2^ " + i + "=" + ans);
                 }        
             }
         }

@@ -17,7 +17,7 @@ namespace BasicCode
             int c = int.Parse(Console.ReadLine());
             if (a > b && a > c)
             {
-                Console.WriteLine(a + "is a biggest number ");
+                Console.WriteLine(a + " is a biggest number ");
             }
             else if (b > a && b > c)
             {

@@ -21,8 +21,8 @@ namespace BasicCode
             int temp = a;
             a = b;
             b = temp;
-            Console.WriteLine("After swapping :- ");
-            Console.WriteLine("a= " + a + "b = " + b);
+            Console.WriteLine(" After swapping :- ");
+            Console.WriteLine( "a= " + a + "b = " + b);
 
 
         }

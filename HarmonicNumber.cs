@@ -21,7 +21,7 @@ namespace BasicCode
             }
             else
             {
-                Console.WriteLine("please enter values greater than 0 ");
+                Console.WriteLine("Please enter values greater than 0 ");
             }
         }
     }

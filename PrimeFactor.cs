@@ -9,7 +9,7 @@ namespace BasicCode
     internal class PrimeFactor
     {
         public void prime() {
-            Console.WriteLine("Enter a number");
+            Console.WriteLine("Enter a number:- ");
             int num = int.Parse(Console.ReadLine());
             for (int i = 2; i < num; i++)
             {
